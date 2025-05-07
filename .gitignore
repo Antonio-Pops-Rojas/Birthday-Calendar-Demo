@@ -1,0 +1,12 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+
+# testing
+# add test ignores here if running tests
+
+# production
+# add final build ignores if necessary
+
+# misc
