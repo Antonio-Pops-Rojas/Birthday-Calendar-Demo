@@ -2,6 +2,8 @@
 
 # dependencies
 /node_modules
+/.parcel-cache
+/dist
 
 # testing
 # add test ignores here if running tests
